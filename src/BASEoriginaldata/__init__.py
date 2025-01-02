@@ -4,6 +4,7 @@ __all__ = ["getdatapath"]
 
 PATHS = dict()
 
+
 def calcdatapath(key):
     names = list(key)
     if len(names) == 0:
@@ -14,7 +15,8 @@ def calcdatapath(key):
     path = context.__enter__()
     ans = str(path)
     return ans
-    
+
+
 def getdatapath(*names):
     key = tuple(str(x) for x in names)
     if key not in PATHS:
