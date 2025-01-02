@@ -5,7 +5,7 @@ BASEoriginaldata
 Overview
 --------
 
-BASEoriginaldata
+This project is the adaptation of the ``data`` from the CodeOcean capsule. See the original paper for more information.
 
 Installation
 ------------
@@ -19,19 +19,12 @@ To install ``BASEoriginaldata``, you can use ``pip``. Open your terminal and run
 License
 -------
 
-This project is licensed under the MIT License.
+The license can be found in the LICENSE file.
 
 Links
 -----
 
 * `Documentation <https://pypi.org/project/BASEoriginaldata>`_
 * `Download <https://pypi.org/project/BASEoriginaldata/#files>`_
+* `Original Paper <https://pubmed.ncbi.nlm.nih.gov/33032524/>`_
 * `Source <https://github.com/johannes-programming/BASEoriginaldata>`_
-
-Credits
--------
-
-* Author: Johannes
-* Email: `johannes-programming@mailfence.com <mailto:johannes-programming@mailfence.com>`_
-
-Thank you for using ``BASEoriginaldata``!
